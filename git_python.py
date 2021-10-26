@@ -16,9 +16,16 @@ print(x,y)
 y = your funding will be given exponentially
 
 
+<<<<<<< HEAD
 ######################## Edited at local
 
 x = It should look more desperate 
 y = Funding is not supposed to grow for good
 
 
+=======
+###################### Second edited at github
+
+## x and y are thought to be feasible
+## hence, confirmed
+>>>>>>> 12c8800539b23ab49c36ef60e5bc61f82d308b18
