@@ -5,6 +5,8 @@ Please give me funding
 - Machine learning 
 - Deep learning
 
-$X \sim N(\mu, \sigma)$
+### Conflict with branch_0
+This is written for making trouble 
+- $X \sim N(\mu, \sigma)$
 
 
