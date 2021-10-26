@@ -5,6 +5,8 @@ Please give me funding
 - Machine learning 
 - Deep learning
 
+### Conflict with master
+Thi is written for huge trouble
 $X \sim N(\mu, \sigma)$
 
 
