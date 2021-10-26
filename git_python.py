@@ -14,3 +14,11 @@ y = np.exp(x)
 print(x,y)
 
 y = your funding will be given exponentially
+
+
+######################## Edited at local
+
+x = It should look more desperate 
+y = Funding is not supposed to grow for good
+
+
