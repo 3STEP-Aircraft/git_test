@@ -18,5 +18,5 @@ y = your funding will be given exponentially
 
 ###################### Second edited at github
 
-x and y are thought to be feasible
-hence, confirmed
+## x and y are thought to be feasible
+## hence, confirmed
