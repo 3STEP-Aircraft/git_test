@@ -14,3 +14,9 @@ y = np.exp(x)
 print(x,y)
 
 y = your funding will be given exponentially
+
+
+###################### Second edited at github
+
+x and y are thought to be feasible
+hence, confirmed
