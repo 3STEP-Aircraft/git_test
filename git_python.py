@@ -7,3 +7,10 @@ print(x)
 2= please
 3= hard moment
 4= who to ask for 
+
+######################### Edited at github
+
+y = np.exp(x)
+print(x,y)
+
+y = your funding will be given exponentially
